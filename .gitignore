@@ -1,4 +1,7 @@
-build/
+*.py[cod]
+*.so
 devel/
+build/
+install/
 *.swp
 
